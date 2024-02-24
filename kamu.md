@@ -1,4 +1,3 @@
-# written by admin erct
 <pre>
 Apa itu Brute Force attack?
 Brute Force attack merupakan salah satu serangan atau Seorang peretas untuk mengakses sesebuah server atau sistem secara tidak sah dengan cara menebak Sandi atau password Dan mencobanya berulang-ulang kali sampe berhasil ini adalah salah satu serangan yang lumayan terkenal dan sering digunakan oleh Seorang peretas cara menhindari nya jangan pake password yang sama dengan username anda contoh nama mu bahlul kamu kasi password bahlul321 bahlul@122 bahaya itu Hacker be like hoki banget gw okelah maff kalau ada perkaataan yang salah 
