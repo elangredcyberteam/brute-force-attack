@@ -1,9 +1,8 @@
-<h1>password-untuk-brute-force-attack-wp-login.php</h1>
-<p>kenapa saya bilang wp-login.php karna anak deface banyakan narget di WordPress kalau untuk anak2 deface emang berue force hanya untuk wp-login.php gk lah bg yang Penting ada tempat login nya 😐 kalau ada tools nya pake tools lah hihix kalau gk ada pake tangan juga jadi ucap si kakek jepang kalau ada gas kalau gk ada ngc*k juga jadi wkwkwkwk
+<pre>
 Apa itu Brute Force attack?
 Brute Force attack merupakan salah satu serangan atau Seorang peretas untuk mengakses sesebuah server atau sistem secara tidak sah dengan cara menebak Sandi atau password Dan mencobanya berulang-ulang kali sampe berhasil ini adalah salah satu serangan yang lumayan terkenal dan sering digunakan oleh Seorang peretas cara menhindari nya jangan pake password yang sama dengan username anda contoh nama mu bahlul kamu kasi password bahlul321 bahlul@122 bahaya itu Hacker be like hoki banget gw 🤭 okelah maff kalau ada perkaataan yang salah 
 written by admin erct
-</p>
+</pre>
 <pre>
 admin@321
 a1b2c3
