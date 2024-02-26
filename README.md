@@ -6,4 +6,4 @@ untuk website
 mana ada yg abadi
 system hacked
 <img src="hacked.jpg" width"50" height="50" />
-<hr /></pre>
+</pre>
