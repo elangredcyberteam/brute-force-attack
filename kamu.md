@@ -1,12 +1,18 @@
+<h1>SEMOGA Hoki</h1>
 <pre>
-Apa itu Brute Force attack?
-Brute Force attack merupakan salah satu serangan atau Seorang peretas untuk mengakses sesebuah server atau sistem
-secara tidak sah dengan cara menebak Sandi atau password Dan mencobanya berulang-ulang kali sampe berhasil
-ini adalah salah satu serangan yang lumayan terkenal dan sering digunakan oleh Seorang peretas cara menhindari nya jangan pake password yang sama dengan username anda contoh nama mu bahlul kamu kasi password bahlul321 bahlul@12
-bahaya itu Hacker lalu berkata hoki banget gw okelah maff kalau ada perkaataan yang salah
-kamu boleh coba mengunakan password yang di bawa semoga sukses
-</pre>
-<pre>
+a1b2c3
+7sadmin
+8sadmin
+sadmin7
+sadmin8
+administrative
+Superadmin_TC#
+!@#Ads789
+admin123!@#
+9014
+1q2w3e4r
+superuser
+adminlog
 admin@321
 a1b2c3
 adminlog
